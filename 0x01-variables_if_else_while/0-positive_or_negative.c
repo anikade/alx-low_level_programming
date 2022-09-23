@@ -7,7 +7,7 @@
 * Description: Get a random number and print the number
 * and if it is positive, negative and zero
 * Return: 0
-*/
+ */
 
 int main(void)
 {
